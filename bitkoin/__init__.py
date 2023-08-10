@@ -1,0 +1,1 @@
+from bitkoin.main import run
